@@ -12,6 +12,10 @@ SGOU MA English · Semester 1 · Course M21EG01DC
 
 [Open the chapter PDF collection](notes%20pdf/README.md) for fuller explanations, developed exam discussions, and answer-planning guidance.
 
+## Sticky notes
+
+[Open the illustrated chapter posters](sticky%20notes/README.md) for quick visual revision of the main ideas in all 15 units.
+
 ## Study materials
 
 - [Front Matter](study%20materials/00%20-%20Front%20Matter.md)
