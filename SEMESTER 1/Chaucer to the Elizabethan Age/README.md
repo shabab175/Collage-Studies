@@ -8,6 +8,10 @@ SGOU MA English · Semester 1 · Course M21EG01DC
 
 [Open the simple chapter-by-chapter notes](notes/README.md). Each of the 15 units includes step-by-step explanations, examples, key terms, and revision questions.
 
+## Expanded exam PDFs
+
+[Open the chapter PDF collection](notes%20pdf/README.md) for fuller explanations, developed exam discussions, and answer-planning guidance.
+
 ## Study materials
 
 - [Front Matter](study%20materials/00%20-%20Front%20Matter.md)
